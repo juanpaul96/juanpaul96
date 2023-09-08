@@ -1,4 +1,11 @@
-### Hi there I'm Juan Pablo Linares👋
+<div align="center">
+  <h1 align="center">Hi there I'm Juan Pablo Linares👋</h1>
+</div>
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuan-pablo-linares-ramirez%2F">
+
+<h3 align="left">About me 👨‍💻</h3>
+- Data Engineer
+- Backend Developer
 
 <!--
 **juanpaul96/juanpaul96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
