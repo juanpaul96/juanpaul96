@@ -1,23 +1,16 @@
 <div align="center">
   <h1 align="center">Hi there I'm Juan Pablo Linares👋</h1>
 </div>
+<p align='left'>
+  Data Engineer - Backend Developer.
+</p>
 <a href="https://www.linkedin.com/in/juan-pablo-linares-ramirez/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/juan_linares15/">
+  <a href="">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/juan_linares15/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-<!--
-**juanpaul96/juanpaul96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</a>&nbsp;&nbsp;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
