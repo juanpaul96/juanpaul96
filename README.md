@@ -2,7 +2,7 @@
   <h1 align="center">Hi there I'm Juan Pablo Linares👋</h1>
 </div>
 <p align='left'>
-  Data Engineer - Backend Developer.
+  Data engineer passionate about optimizing data pipelines for seamless data flow and analysis.
 </p>
 <a href="https://www.linkedin.com/in/juan-pablo-linares-ramirez/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
